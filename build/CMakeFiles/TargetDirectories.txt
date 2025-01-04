@@ -1,0 +1,3 @@
+/home/k32ar/Projects/KW/build/CMakeFiles/KW.dir
+/home/k32ar/Projects/KW/build/CMakeFiles/edit_cache.dir
+/home/k32ar/Projects/KW/build/CMakeFiles/rebuild_cache.dir

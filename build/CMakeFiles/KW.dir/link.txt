@@ -1,0 +1,1 @@
+/usr/bin/clang -Xlinker --dependency-file=CMakeFiles/KW.dir/link.d CMakeFiles/KW.dir/src/main.c.o -o KW
